@@ -35,4 +35,4 @@ Set the meeting time
 
 
 ## Note
-The application can be directly executed [here](interactivereminder.github.io/home/)# The-Location-Based-Calendar
+The application can be directly executed [here](interactivereminder.github.io/home/)
