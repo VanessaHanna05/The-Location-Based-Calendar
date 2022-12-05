@@ -25,18 +25,23 @@ Click on the spefic day to set one or more meetings
 
 Set the type of the meeting to get a certain alert message
 
+Allow the application to have access to your location
+
 Give a meeting title based on your preferences
 
 Insert the location of the meeting that can be viewed from google maps
 
 Set the meeting time 
 
+Delete:
+delete meetings easily from the event summary by clicking on the trash logo
 
 
 
 ## Note
-The application can be directly executed [here](interactivereminder.github.io/home/)
+
 Internet connection is needed for the map and api to work
 
 ## API
+
 The [Here API](https://developer.here.com/) was used for location tracking and duration calculation
