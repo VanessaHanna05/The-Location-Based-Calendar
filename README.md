@@ -36,3 +36,7 @@ Set the meeting time
 
 ## Note
 The application can be directly executed [here](interactivereminder.github.io/home/)
+Internet connection is needed for the map and api to work
+
+## API
+The [Here API](https://developer.here.com/) was used for location tracking and duration calculation
